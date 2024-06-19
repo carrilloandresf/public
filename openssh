@@ -1,0 +1,4 @@
+[OpenSSH]
+title=OpenSSH server
+description=OpenSSH server
+ports=22/tcp
